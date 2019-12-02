@@ -1,4 +1,4 @@
-with "../raylib-Ada/raylib.gpr";
+with "raylib";
 
 project struggle is
 
